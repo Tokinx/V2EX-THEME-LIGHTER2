@@ -1,0 +1,231 @@
+/*
+ * V2EX CSS THEME: LIGHTER2
+ * BY: @Tokin
+ * THANKS: @jkjoke @yanleijava @abelyao @zzutmebwd@kookxiang @DearTanker @picasso250 
+ * UPDATE: 2021-10-27 13:50:26
+ */
+#Rightbar {
+  margin-right: 0px !important;
+}
+#Main {
+  width: auto;
+  margin: 0px 285px 0px 0px;
+}
+#Main img.avatar {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+#Main .cell table tr td:nth-child(3),
+#Main .cell table tr td:nth-child(4) {
+  min-height: 60px;
+  padding-top: 8px;
+}
+
+#Main .box:nth-child(2) .small {
+  display: none;
+}
+#Main div[id*='r_'].cell table tr td:nth-child(1),
+#Main div[id*='r_'].cell table tr td:nth-child(3) {
+  padding-top: 10px;
+}
+#Rightbar div:nth-child(2) .cell:first-child table:nth-child(1) tr td:nth-child(1) {
+  text-align: center;
+}
+#Rightbar .light-toggle img {
+  height: 15px !important;
+}
+#Rightbar div:nth-child(2) .cell:first-child table:nth-child(3) {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+#Top {
+  background: none !important;
+  height: 100%;
+  border: 0px;
+}
+#Top > .content {
+  padding-top: 15px;
+  max-width: 1100px;
+}
+#Top > .content > div {
+  padding: 0px !important;
+}
+#Top table tr td:nth-child(3) {
+  padding-top: 0px !important;
+  height: 50px;
+  width: 620px;
+}
+#Wrapper {
+  background-image: unset !important;
+  padding: 50px 0;
+  margin-top: -50px;
+}
+#Wrapper:not(.Night) {
+  background-color: #f5f5f5;
+}
+#Bottom .sep20 {
+  display: block;
+}
+.box {
+  border-radius: 0px;
+  box-shadow: none;
+  border: none !important;
+  margin-bottom: -1px;
+  border-radius: 3px;
+}
+.box .inner {
+  border-radius: 0px;
+}
+.cell {
+  border-bottom: 1px solid rgba(175, 175, 175, 0.15);
+}
+.cell > table {
+  table-layout: fixed;
+}
+.fade {
+  color: #aaa;
+}
+.inner {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.item_title {
+  padding-top: 10px;
+}
+.msl {
+  width: 615px;
+}
+.no {
+  color: #bbb;
+  padding: 4px 5px;
+}
+.snow {
+  color: #ccc;
+}
+.topic_content {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 50px;
+}
+.topic_content a {
+  background: linear-gradient(to bottom, transparent 56%, #ffffae 0%) no-repeat;
+}
+.topic_content p {
+  margin: 0.5rem 0;
+  line-height: 1.8;
+}
+.topic_content h1,
+.topic_content h2,
+.topic_content h3,
+.topic_content h4,
+.topic_content h5,
+.topic_content h6 {
+  color: #000;
+}
+
+.topic_content h1,
+.topic_content h2 {
+  margin: 0 -10px 1rem;
+  padding: 10px;
+}
+.topic_content ol,
+.topic_content ul {
+  margin: 1rem 0 1rem 2rem;
+}
+.topic_content ol li,
+.topic_content ul li {
+  padding-left: 10px;
+  border-left: 1px solid #eee;
+}
+.topic_buttons {
+  background: #f3f3f3;
+}
+
+a.top:link,
+a.top:visited {
+  color: #aaa;
+  font-size: 14px;
+}
+a.top:hover {
+  color: #333;
+}
+a.balance_area:link,
+a.balance_area:visited,
+.balance_area {
+  background: #fff;
+}
+a.item_node {
+  background: #fff;
+  border: 1px #fff solid;
+}
+textarea.mll {
+  width: 625px;
+}
+div[id*='r_'].cell table tr td:nth-child(1) {
+  vertical-align: baseline !important;
+}
+div.header h1 {
+  margin-right: 80px;
+}
+div.fr a[href*='member'] img {
+  margin-top: 30px;
+}
+td[width='32'] {
+  padding-right: 20px;
+}
+
+#search-container {
+  border-radius: 3px;
+  height: 30px;
+}
+#search-container:before {
+  width: 30px;
+  top: 0;
+}
+#Bottom {
+  border: none;
+}
+
+textarea.mll {
+  resize: unset;
+  width: 100%;
+}
+
+.topic_buttons {
+  padding: 15px;
+  line-height: 1;
+  background: unset;
+}
+.topic_buttons .topic_stats {
+  padding: 0 !important;
+}
+a.tb:active,
+a.tb:link,
+a.tb:visited {
+  display: unset;
+}
+.tag:link,
+.tag:visited {
+  border-radius: 99px;
+}
+
+.box .cell {
+  padding: 15px !important;
+}
+td[width='8%'][align='right'] {
+  width: 100px !important;
+}
+a[class^='page_'] {
+  padding: 6px 12px !important;
+  margin: 0 -0.1rem !important;
+}
+.sep20 {
+  height: 15px;
+}
+.member-activity-bar {
+  width: 100% !important;
+}
+#SecondaryTabs {
+  padding: 5px 15px !important;
+  border-top: 1px solid rgba(175, 175, 175, 0.15);
+}
