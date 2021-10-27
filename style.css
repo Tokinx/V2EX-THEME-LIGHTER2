@@ -1,8 +1,8 @@
 /*
  * V2EX CSS THEME: LIGHTER2
  * BY: @Tokin
- * THANKS: @jkjoke @yanleijava @abelyao @zzutmebwd@kookxiang @DearTanker @picasso250 
- * UPDATE: 2021-10-27 13:50:26
+ * THANKS: @jkjoke @yanleijava @abelyao @zzutmebwd @kookxiang @DearTanker @picasso250 
+ * UPDATE: 2021-10-27 14:21:58
  */
 #Rightbar {
   margin-right: 0px !important;
@@ -113,14 +113,6 @@
 .topic_content p {
   margin: 0.5rem 0;
   line-height: 1.8;
-}
-.topic_content h1,
-.topic_content h2,
-.topic_content h3,
-.topic_content h4,
-.topic_content h5,
-.topic_content h6 {
-  color: #000;
 }
 
 .topic_content h1,
